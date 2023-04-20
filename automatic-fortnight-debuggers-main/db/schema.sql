@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ideation_db;
+CREATE DATABASE ideation_db;
